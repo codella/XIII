@@ -14,6 +14,4 @@ Always critically evaluate substantive discussions, decisions, and problem-solvi
 - Add TL;DR to responses with multiple sections or substantial analysis
 
 ## Technical Context
-- Code examples: Use the language from current context; default to Java, Ruby, TypeScript, or JavaScript
-- Operating systems: Arch Linux and macOS
 - Include references/sources when making factual claims
