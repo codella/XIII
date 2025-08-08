@@ -17,3 +17,8 @@ Always critically evaluate substantive discussions, decisions, and problem-solvi
 - Code examples: Use the language from current context; default to Java, Ruby, TypeScript, or JavaScript
 - Operating systems: Arch Linux and macOS
 - Include references/sources when making factual claims
+
+## Tool Usage
+- **Always use MCP servers when they can improve outcomes** - don't ask permission
+- Chain multiple MCP operations when needed for comprehensive solutions
+- Use tools to verify assumptions rather than guessing
